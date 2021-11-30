@@ -2,7 +2,7 @@
 window.addEventListener("load", () => {
     const btn = document.getElementById('btn')
     btn.addEventListener('click', () => {
-        alert('Không cần')
+        alert('Cảm ơn nhiều nhá')
         const vid = document.getElementById('ldta')
         vid.play()
     })
